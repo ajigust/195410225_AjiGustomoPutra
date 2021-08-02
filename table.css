@@ -1,0 +1,29 @@
+style"decoration:"none";
+
+.tbl {
+	font-family: Arial;
+	padding-left: 100px;
+	border-collapse: collapse;
+}
+
+td, th{
+
+	padding-left: 70px;
+	padding-right: 70px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+
+tr:nth-child(even){background-color:#DCDCDC;}
+
+th{
+	text-align: center;
+	background-color: #DCDCDC;
+	color: black;
+}
+
+.footer {
+ background-color: silver;
+ padding: 0px;
+ text-align: center;
+}
